@@ -1,4 +1,3 @@
-console.log('');
 console.log('task-2');
 
 const total = 100;

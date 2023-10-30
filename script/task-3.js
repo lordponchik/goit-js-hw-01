@@ -1,4 +1,3 @@
-console.log('');
 console.log('task-3');
 
 const ADMIN_PASSWORD = 'jqueryismyjam';
