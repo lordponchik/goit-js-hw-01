@@ -9,8 +9,6 @@
 
 # Acceptance criteria
 
-# Критерии приема
-
 - Repository created `goit-js-hw-01`
 - When submitting homework there is a link to the source files in the repository
 - Each task is executed in a separate file named `task-task_number.js`. Use `<script type="module">`
