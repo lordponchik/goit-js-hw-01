@@ -1,6 +1,6 @@
 <h1 id="home">Homework :clipboard:</h1>
 
-## goit-markup-js-01
+## goit-js-hw-01
 
 
 * 🇺🇸 [English](#en)
